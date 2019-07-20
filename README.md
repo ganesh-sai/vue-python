@@ -1,1 +1,1 @@
-# Demo vue python with iris data-set
+# Demo Application using vue.js, python with iris data-set
